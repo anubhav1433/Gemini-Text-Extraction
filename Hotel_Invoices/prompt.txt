@@ -1,0 +1,17 @@
+"""
+Convert Invoice data into json format with appropriate json tags as required for the data in image,Extract all this information if and only if they exist other wise write NAN
+1. Company Name
+2. Invoice date
+3. Invoice number
+4. Total Amount
+5. Hotel state
+6. Hotel city
+7. Hotel pin
+8. Guest name
+9. Guest's company name
+10. GST Number of the guest's company
+11. Checkin date
+12. Checkout date
+13. Total days stayed
+14. Hotel service line items
+"""

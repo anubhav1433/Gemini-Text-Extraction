@@ -1,0 +1,20 @@
+     ant only  
+     AAHELI  
+  AXIS MALL RAJARHAAT  
+  GSTN : -19AABCP9484D1Z3  
+   Pan No : AABCP9484D  
+TABLE # 1   Bill # 2293  
+Pax # 1   Date # 21/01/23  
+Kot # 81  Time # 20.24  
+Particular Qty Rate Value  
+NARKELI CHH 1 225.00 225.00  
+SUGANDHI GO 1 145.00 145.00  
+AL00 PIYAJ 1 395.00 395.00  
+Total Amt .: AT 765.00  
+CGST@2.50 %   19.14  
+SGST@2.50 %   19.14  
+Net Amount #CER 803.00  
+User Id # CHANDAN  
+      Guest Signature  
+   HAVE A NICE DAY .  
+Food & Bev . served to be consumed  

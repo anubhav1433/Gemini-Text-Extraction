@@ -1,0 +1,17 @@
+"""
+Convert Invoice data into json format with appropriate json tags as required for the data in image,Extract all this information if and only if they exist other wise write NAN
+1. Company Name
+2. Invoice date
+3. Invoice number
+4. Mode of travel
+5. Travel ticket class (optional but try extracting it)
+6. From location
+7. To location
+8. Departure date
+9. Departure time
+10. Arrival date
+11. Arrival time
+12. Number of Kilometer (traveled)
+13. Inter-city or intra-city travel
+14. Total Amount
+"""

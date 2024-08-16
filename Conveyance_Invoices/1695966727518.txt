@@ -1,0 +1,16 @@
+{
+ "Company Name": "Indian Railway",
+ "Invoice date": "27/09/2023",
+ "Invoice number": "409HDLPL2E",
+ "Total Amount":"INR 50"
+ "Mode of travel": "Train",
+ "Travel ticket class": "Second Class",
+ "From location": "Bally",
+ "To location": "Barddhaman",
+ "Departure date": "27/09/2023",
+ "Departure time": "07:55",
+ "Arrival date": "27/09/2023",
+ "Arrival time": "NAN",
+ "Number of Kilometer (traveled)": "174",
+ "Inter-city or intra-city travel": "Inter-city"
+}

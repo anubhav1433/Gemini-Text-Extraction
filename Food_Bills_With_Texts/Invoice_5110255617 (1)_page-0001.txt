@@ -1,0 +1,33 @@
+zomato  
+                       Tax Invoice  
+                    ORIGINAL For Recipient  
+Tax Invoice on behalf of -  
+Legal Entity Name : PSP INNOVATORS PRIVATE LIMITED  
+Restaurant Name : La Pino'z Pizza  
+Restaurant Address : Shop 9 And 9A , 956 , Gokuldham Complex , Block - A , Jessore Road , Lake Town ,  
+Kolkata  
+Restaurant GSTIN : 19AAKCP4622L1ZZ  
+Restaurant FSSAI : 12822013000605  
+Invoice No .: 23E1DF1100005821  
+Invoice Date : 19/08/2023  
+Customer Name : Sayan Paul  
+Delivery Address : 71 , Sadhana Ausadhalaya Road , 700048  
+State name & Place of Supply : West Bengal ( 19 )  
+HSN Code : 996331  
+Service Description : Restaurant Service  
+    Particulars     Gross Discount Net  CGST CGST SGST SGST Total  
+               value      value ( Rate ) ( INR ) ( Rate ) ( INR )  
+1 x La Pino'z Chicken Pizza   345   0   345  2.5 %  8.63  2.5 %  8.63 362.26  
+Item ( s ) Total         345   0   345       8.63       8.63 362.26  
+Restaurant Packaging Charge  25    0   25  2.5 %  0.63  2.5 %  0.63  26.26  
+Total Value                   370       9.26       9.26 388.52  
+Amount ( in words ) : Three Hundred Eighty Eight Rupees And Fifty Two Paisa Only  
+Amount INR 388.52 settled through digital mode / payment received upon delivery against Order ID :  
+5110255617  
+Supply attracts reverse charge : No  
+For ZOMATO LIMITED ( FORMERLY KNOWN AS ZOMATO PRIVATE LIMITED AND ZOMATO MEDIA PRIVATE  
+LIMITED )  
+Zomato CIN : L93030DL2010PLC198141                            Bhulla  
+Zomato GST : 19AADCD4946L1Z7  
+Zomato FSSAI 10019064001810  
+                                         Authorised Signatory  

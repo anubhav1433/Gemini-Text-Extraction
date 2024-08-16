@@ -1,0 +1,18 @@
+ ```json
+{
+  "Company Name": "Ola",
+  "Invoice Date": "08/08/2022",
+  "Invoice Number": "996412",
+  "Mode of Travel": "Cab",
+  "Travel Ticket Class": "Mini",
+  "From Location": "Ola Zone, Behind BMT Bus Stand, Kempegowda International Airport",
+  "To Location": "NAN",
+  "Departure Date": "NAN",
+  "Departure Time": "NAN",
+  "Arrival Date": "NAN",
+  "Arrival Time": "NAN",
+  "Number of Kilometer (traveled)": "NAN",
+  "Inter-city or intra-city travel": "Intra-city",
+  "Total Amount": "722.72"
+}
+```

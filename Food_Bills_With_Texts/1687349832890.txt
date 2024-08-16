@@ -1,0 +1,45 @@
+                      52271  
+               TAX INVOICE  
+         MANGO HOSPITALITY  
+                   JAISALMER  
+        syn Crystal , Podi          4  
+   Block TP & GP.Salt 1  
+               kolkata - 91  
+                     1-5-2022 11:06 PM  
+Bill No  
+                                 Server 4  
+Table 8  
+                    TY  
+ITEM  
+                     1     345  
+C CHICKEN  
+ CHARMOLA  
+                     1     455  
+CHICKEN  
+RARA PUNJABI  
+DAL MAKHANI       1     280   280.00  
+GARLIC NAAN       1      65     65.00  
+JHINGA NISHA            535    535.00  
+KABLI NAAN        1     135    165.00  
+MANGO HONEY       1     200   200.00  
+  DELIGHT  
+MURGH               1     445    445.00  
+LASOONI KELAB FULLL  
+     SON              1     435    435.00  
+CALÓTI KEBAB  
+MUTTON TAWA       1    465   465.00  
+ BANJARA  
+STRAWBERRY        1     200    200.00  
+LITCHI KISS  
+WATER               2      30     60.00  
+                    13           3600.00  
+Service Charge 5 % On 36  
+Sub Total                          3.80  
+CGST 2.5 % On 3720.00            6.00  
+SGST 2.5 % On 3720.00             00  
+Round Off                          0.00  
+Total                            3966.00  
+                                  E.80.E.  
+       GSTIN 19AANTB3902H1ZG  
+       THANK YOU VISIT AGAIN  
+USER : jaisalmer  

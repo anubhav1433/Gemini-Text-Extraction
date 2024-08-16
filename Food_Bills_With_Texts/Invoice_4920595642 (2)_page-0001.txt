@@ -1,0 +1,33 @@
+zomato  
+                      Tax Invoice  
+                    ORIGINAL For Recipient  
+Tax Invoice on behalf of -  
+Legal Entity Name : RISHAB JAISWAL  
+Restaurant Name : What's In The Bowl  
+Restaurant Address : C 301 , 3rd Floor , City Centre 1 , North Twenty Four Parganas , Sector 1 , Salt Lake ,  
+Kolkata  
+Restaurant GSTIN : UNREGISTERED  
+Restaurant FSSAI : 22821013005134  
+Invoice No .: 233YT4VU00000892  
+Invoice Date : 31/05/2023  
+Customer Name : Nabajyoti Das  
+Delivery Address : Annapurna plaza apartment , Ground Floor , 700102  
+State name & Place of Supply : West Bengal ( 19 )  
+HSN Code : 996331  
+Service Description : Restaurant Service  
+    Particulars    Gross Discount Net  CGST CGST SGST SGST Total  
+              value      value ( Rate ) ( INR ) ( Rate ) ( INR )  
+1 x Chicken Lababdar with  239   100   139  2.5 %  3.48  2.5 %  3.48 145.96  
+Ghee Rice Bowl  
+Item ( s ) Total       239   100   139       3.48       3.48 145.96  
+Total Value                  139       3.48       3.48 145.96  
+Amount ( in words ) : One Hundred Forty Five Rupees And Ninety Six Paisa Only  
+Amount INR 145.96 settled through digital mode / payment received upon delivery against Order ID :  
+4920595642  
+Supply attracts reverse charge : No  
+For ZOMATO LIMITED ( FORMERLY KNOWN AS ZOMATO PRIVATE LIMITED AND ZOMATO MEDIA PRIVATE  
+LIMITED )  
+Zomato CIN : L93030DL2010PLC198141                            Bhulla  
+Zomato GST : 19AADCD4946L1Z7  
+Zomato FSSAI 10019064001810  
+                                         Authorised Signatory  

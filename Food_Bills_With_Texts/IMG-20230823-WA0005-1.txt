@@ -1,0 +1,25 @@
+      PEEP IN  
+     RESTAURANT  
+      DHANBAD  
+        DATE : 22/08/23  
+BILL NO : 43601   TIME : 04:14  
+ITEM  QTY   PRICE AMOUNT  
+PAPAD DRY  
+      4P  15.00 60.00  
+M. WATER   1P 20.00 20.00  
+M. WATER   1P 20.00 20.00  
+PLAIN RICE - F  
+      3P 60.00 180.00  
+DAL FRY FULL .  
+       1P  90.00 90.00  
+DAL FRY FULL  
+1P  90.00 90.00  
+MIX VEG - F  
+      1P 150.00 150.00  
+ALOO MUTTER - F  
+      1P 180.00 180.00  
+TOTAL ITMS : 8 / QTY : 13.000  
+TOTAL AMOUNT :      790.00  
+     THANK YOU    .  
+     VISIT AGAIN  
+          | viny  

@@ -1,0 +1,59 @@
+ ```json
+{
+  "merchant_name": "THE WAVE INTERNATIONAL",
+  "invoice_date": "26-Aug-2023",
+  "invoice_number": "F8M8522B10002002",
+  "total_amount": "1277.00",
+  "hotel_state": "JHARKHAND",
+  "hotel_city": "RANCHI",
+  "hotel_pin": "834001",
+  "guest_name": "MR. AIVKAR SARKAR",
+  "guest_company_name": "CEAT LTD",
+  "guest_company_gst_number": "20AACCC1645G1ZD",
+  "checkin_date": "25-Aug-2023",
+  "checkout_date": "26-Aug-2023",
+  "total_days_stayed": "1",
+  "hotel_service_line_items": [
+    {
+      "item_name": "ROOM SERVICE",
+      "item_amount": "895.00"
+    },
+    {
+      "item_name": "GST @ 2.50%",
+      "item_amount": "22.38"
+    },
+    {
+      "item_name": "SGST @ 2.50%",
+      "item_amount": "22.38"
+    },
+    {
+      "item_name": "CGST @ 2.50%",
+      "item_amount": "22.38"
+    },
+    {
+      "item_name": "STATE GST @ 2.50%",
+      "item_amount": "22.38"
+    },
+    {
+      "item_name": "ROOM SERVICE",
+      "item_amount": "383.00"
+    },
+    {
+      "item_name": "GST @ 2.50%",
+      "item_amount": "9.58"
+    },
+    {
+      "item_name": "SGST @ 2.50%",
+      "item_amount": "9.58"
+    },
+    {
+      "item_name": "CGST @ 2.50%",
+      "item_amount": "9.58"
+    },
+    {
+      "item_name": "STATE GST @ 2.50%",
+      "item_amount": "9.58"
+    }
+  ]
+}
+```

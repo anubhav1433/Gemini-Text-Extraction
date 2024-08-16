@@ -1,0 +1,26 @@
+       Cafe 82  
+      Salt Lake City  
+   ( ARCHLINE HOSPITALITY LLP )  
+  CJ 26 Sector 2 Salt Lake City ,  
+   Kolkata , West Bengal - 700091  
+GSTIN : 19ABFFA7890J1ZV , PH No : 033-68811 0882  
+       Order  
+       Dine In  
+    Table - 04 ( 4 )  
+Order SLC - 7028     5 items ( 9 Qty )  
+Feb 01 2023 01:39 PM      Manager  
+ Name       Qty Rate Amount  
+ Cappuccino ( Regular ) 2  185 370.00  
+ Americano     2  155 310.00  
+               185.00  
+  Chocolate    1  185  
+ Hot  
+ Cookies .     3  65 195.00  
+ Soft Drinks ( Can )  1  40  40.00  
+ Sub Total          1,100.00 55.00  
+     ( Optional ) 5 % on 1,100.00  
+ S Charge  
+ CGST 2.5 % on 1,100.00      27.50  
+ SGST 2.5 % on 1,100.00      27.50  
+Bill Total         1,210.00  
+     Powered by www.dotpe.in  

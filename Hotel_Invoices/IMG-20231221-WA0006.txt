@@ -1,0 +1,25 @@
+{
+ "merchant_name": "Ira Orchid Hotels",
+ "invoice_date": "24/01/2023",
+ "invoice_number": "0024823",
+ "total_amount": "903.00",
+ "hotel_state": "Odisha",
+ "hotel_city": "Bhubaneswar",
+ "hotel_pin": "751006",
+ "guest_name": "Avijit Sarkar",
+ "guest_company_name": "Dubrajpur, West Bengal",
+ "guest_company_gst_number": "19-000000005",
+ "checkin_date": "18-Dec-2023",
+ "checkout_date": "19-Dec-2023",
+ "total_days_stay": "1",
+ "hotel_service_line_items": [
+   {
+     "name": "Room Rent",
+     "amount": "860.00"
+   },
+   {
+     "name": "In Room Dining",
+     "amount": "210.00"
+   }
+ ]
+}

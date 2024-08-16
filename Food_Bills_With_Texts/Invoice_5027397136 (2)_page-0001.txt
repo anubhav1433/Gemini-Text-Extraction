@@ -1,0 +1,33 @@
+zomato  
+                       Tax Invoice  
+                    ORIGINAL For Recipient  
+Tax Invoice on behalf of -  
+Legal Entity Name : ZING RESTAURANTS PRIVATE LIMITED  
+Restaurant Name : Rang De Basanti Dhaba  
+Restaurant Address : DN 37 , Sector 5 , Salt Lake , Kolkata  
+Restaurant GSTIN : 19AAACZ5041M1ZY  
+Restaurant FSSAI : 12818013001323  
+Invoice No .: 23FNYC6Z00011220  
+Invoice Date : 16/07/2023  
+Customer Name : Nabajyoti Das  
+Delivery Address : Annapurna plaza apartment , Ground Floor , 700102  
+State name & Place of Supply : West Bengal ( 19 )  
+HSN Code : 996331  
+Service Description : Restaurant Service  
+    Particulars     Gross Discount Net  CGST CGST SGST SGST Total  
+               value      value ( Rate ) ( INR ) ( Rate ) ( INR )  
+1 x Bhuna Murgh Tawa     280   75   205  2.5 %  5.13  2.5 %  5.13 215.26  
+Bombay Biryani  
+Item ( s ) Total         280   75   205       5.13       5.13 215.26  
+Restaurant Packaging Charge  25    0    25  2.5 %  0.63  2.5 %  0.63 26.26  
+Total Value                   230       5.76       5.76 241.52  
+Amount ( in words ) : Two Hundred Forty One Rupees And Fifty Two Paisa Only  
+Amount INR 241.52 settled through digital mode / payment received upon delivery against Order ID :  
+5027397136  
+Supply attracts reverse charge : No  
+For ZOMATO LIMITED ( FORMERLY KNOWN AS ZOMATO PRIVATE LIMITED AND ZOMATO MEDIA PRIVATE  
+LIMITED )  
+Zomato CIN : L93030DL2010PLC198141                            Bhulla  
+Zomato GST : 19AADCD4946L1Z7  
+Zomato FSSAI 10019064001810  
+                                         Authorised Signatory  

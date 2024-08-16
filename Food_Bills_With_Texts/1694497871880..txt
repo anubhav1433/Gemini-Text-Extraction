@@ -1,0 +1,36 @@
+          BURGER KING ZONE F  
+        Suvarnabhumi Airport T1  
+        SELECT SERVICE PARTER LD  
+       Tax Invoice ( Abb ) VAT Inc.  
+ 300878 Suptcha  
+Tbl 21/1       Chk 3900        Gst 0  
+            19Jun ' 23 21:28  
+    Eat  In  
+      RC : 0243277428962217  
+  1 GBExtLgChkChsLM          535.00  
+      Extra Long Chick  
+      w Cheese  
+      Lge Fries  
+     Coke 22oz  
+     Apple Pie  
+      Tempura Nugget  
+     5pcs  
+     Lge  
+  1 NTAS                      0.00  
+    MasterCard               535.00  
+   Subtotal                 535.00  
+   Payment            535.00  
+TAX INVOICE ( ABB ) 230619-02-91824  
+TAX ID : 010 553 603 24 10  
+POS ID : E051120002A6491  
+   ****                ***********  
+   ****************  
+Your  Order  is : 3900  
+   ********     ***  
+   ********    *******       *****  
+            Thank You .  
+      Please come back again  
+   Contact us at  
+  customer.support@sspthailand.com  
+       Location Number : 2911245  
+  RC : 0243277428962217  

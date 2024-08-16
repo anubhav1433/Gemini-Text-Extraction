@@ -1,0 +1,18 @@
+ ```json
+{
+  "Company Name": "Uber",
+  "Invoice date": "11 May 2023",
+  "Invoice number": "HR2305085031000199",
+  "Mode of travel": "Cab",
+  "Travel ticket class": "UberX",
+  "From location": "27A, near Girish Park, Manicktala, Azad Hind Bag, Kolkata, West Bengal 700006, India",
+  "To location": "NaN",
+  "Departure date": "11 May 2023",
+  "Departure time": "09:39:21",
+  "Arrival date": "11 May 2023",
+  "Arrival time": "09:39:21",
+  "Number of Kilometer (traveled)": "NaN",
+  "Inter-city or intra-city travel": "Intra-city",
+  "Total Amount": "105.99"
+}
+```

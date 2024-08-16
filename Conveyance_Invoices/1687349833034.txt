@@ -1,0 +1,16 @@
+{
+ "Company Name": "ELOGIX SOFTWRE PRIVATE LIMITED",
+ "Invoice Date": "01/04/2022",
+ "Invoice Number": "M06A123100027056",
+ "Total Amount":"INR 9802"
+ "Mode of Travel": "FLIGHT",
+ "Travel Ticket Class": "Economy",
+ "From Location": "BANGALORE",
+ "To Location": "CHANDIGARH",
+ "Departure Date": "11-04-2022",
+ "Departure Time": "19:05:00",
+ "Arrival Date": "11-04-2022",
+ "Arrival Time": "21:55:00",
+ "Number of Kilometer (traveled)": "NAN",
+ "Inter-city or intra-city travel": "Inter-city"
+}

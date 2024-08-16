@@ -1,0 +1,16 @@
+{
+ "Company Name": "CSTC",
+ "Invoice Date": "17/11/2023",
+ "Invoice Number": "0009526",
+ "Mode of Travel": "Bus",
+ "Travel Ticket Class": "Adult",
+ "From Location": "MANDIRTALA",
+ "To Location": "UNITECH",
+ "Departure Date": "17/11/2023",
+ "Departure Time": "09:48 AM",
+ "Arrival Date": "17/11/2023",
+ "Arrival Time": "NAN",
+ "Number of Kilometer (traveled)": "NAN",
+ "Inter-city or intra-city travel": "Intra-city",
+ "Total Amount": "40.00"
+}

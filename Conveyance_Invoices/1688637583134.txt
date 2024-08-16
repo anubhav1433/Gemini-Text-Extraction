@@ -1,0 +1,16 @@
+{
+ "Company Name": "InterGlobe Aviation Limited",
+ "Invoice date": "13-06-2022",
+ "Invoice number": "DL1222306AP24096",
+ "Total Amount":"INR 15,296"
+ "Mode of travel": "Air",
+ "Travel ticket class": "Economy",
+ "From location": "DEL",
+ "To location": "CCU",
+ "Departure date": "13-06-2022",
+ "Departure time": "06:00",
+ "Arrival date": "13-06-2022",
+ "Arrival time": "08:00",
+ "Number of Kilometer (traveled)": "1464",
+ "Inter-city or intra-city travel": "Inter-city"
+}

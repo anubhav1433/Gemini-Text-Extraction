@@ -1,0 +1,37 @@
+ ```json
+{
+  "merchant_name": "SANHIT HOTEL AND BANQUET",
+  "invoice_date": "18/08/2023",
+  "invoice_number": "MRB/2324/000261",
+  "total_amount": "5405.41",
+  "hotel_state": "West Bengal",
+  "hotel_city": "Kolkata",
+  "hotel_pin": "700046",
+  "guest_name": "Mr. Avijit Sarkar",
+  "guest_company_name": "CEAT LIMITED",
+  "guest_company_gst_number": "19A4C16541Z2W",
+  "checkin_date": "17/08/2023",
+  "checkout_date": "18/08/2023",
+  "total_days_stayed": "1",
+  "hotel_service_line_items": [
+    {
+      "item_name": "ROOM-224-SING",
+      "quantity": "1",
+      "rate": "4000.00",
+      "amount": "4000.00"
+    },
+    {
+      "item_name": "RS/2324/0003510",
+      "quantity": "1",
+      "rate": "837.62",
+      "amount": "837.62"
+    },
+    {
+      "item_name": "RS/2324/0003520",
+      "quantity": "1",
+      "rate": "120.00",
+      "amount": "120.00"
+    }
+  ]
+}
+```

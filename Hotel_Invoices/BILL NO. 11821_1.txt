@@ -1,0 +1,31 @@
+ ```json
+{
+  "merchant_name": "Novotel",
+  "invoice_date": "27-APR-2023",
+  "invoice_number": "11821",
+  "total_amount": "5500",
+  "hotel_state": "Haryana",
+  "hotel_city": "Gurgaon",
+  "hotel_pin": "122015",
+  "guest_name": "Mr. Sanjoy Ghatak",
+  "guest_company_name": "Price Waterhouse Coopers Private Limited",
+  "guest_company_gst_number": "24AAEGP181H2ZA",
+  "checkin_date": "16-04-2023",
+  "checkout_date": "17-04-2023",
+  "total_days_stayed": "1",
+  "hotel_service_line_items": [
+    {
+      "description": "Room Service Dinner Food",
+      "amount": "467.50"
+    },
+    {
+      "description": "Room Service Dinner Food",
+      "amount": "5.50"
+    },
+    {
+      "description": "Accommodation Charges",
+      "amount": "5500"
+    }
+  ]
+}
+```

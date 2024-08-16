@@ -1,0 +1,16 @@
+{
+ "Company Name": "IRCTC",
+ "Invoice date": "14-APR-2022",
+ "Invoice number": "1000033077899",
+ "Mode of travel": "Train",
+ "Travel ticket class": "SECOND SITTING",
+ "From location": "HOWRAH JN",
+ "To location": "BHP",
+ "Departure date": "15-APR-2022",
+ "Departure time": "09:55 PM",
+ "Arrival date": "15-APR-2022",
+ "Arrival time": "13:10 PM",
+ "Number of Kilometer (traveled)": "NAN",
+ "Inter-city or intra-city travel": "Inter-city",
+ "Total Amount": "887.00"
+}

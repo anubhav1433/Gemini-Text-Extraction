@@ -1,0 +1,44 @@
+ ```json
+{
+  "merchant_name": "SOUTHEND BY TGI",
+  "invoice_date": "25/05/2023",
+  "invoice_number": "10000476",
+  "total_amount": "1326.18",
+  "hotel_state": "Karnataka",
+  "hotel_city": "Bangalore",
+  "hotel_pin": "560099",
+  "guest_name": "Ritu Jain",
+  "guest_company_name": "Elogyx Software Pvt. Ltd",
+  "guest_company_gst_number": "19AAACE9856F12B",
+  "checkin_date": "23/05/2023",
+  "checkout_date": "26/05/2023",
+  "total_days_stayed": "2",
+  "hotel_service_line_items": [
+    {
+      "date": "23/05/2023",
+      "description": "FOOD",
+      "amount": "371.70"
+    },
+    {
+      "date": "23/05/2023",
+      "description": "FOOD",
+      "amount": "105.00"
+    },
+    {
+      "date": "25/05/2023",
+      "description": "ROOM SERVICE - FOOD",
+      "amount": "236.26"
+    },
+    {
+      "date": "25/05/2023",
+      "description": "ROOM SERVICE - FOOD",
+      "amount": "52.50"
+    },
+    {
+      "date": "25/05/2023",
+      "description": "ROOM SERVICE - FOOD",
+      "amount": "236.26"
+    }
+  ]
+}
+```

@@ -1,0 +1,16 @@
+{
+ "Company Name": "Goibibo",
+ "Invoice Date": "2022-04-01",
+ "Invoice Number": "GO6A23100007055",
+ "Total Amount":"INR 12612"
+ "Mode of Travel": "Flight",
+ "Travel Ticket Class": "Economy",
+ "From Location": "IXC",
+ "To Location": "CCU",
+ "Departure Date": "2022-04-14",
+ "Departure Time": "19:40:00",
+ "Arrival Date": "2022-04-14",
+ "Arrival Time": "22:10:00",
+ "Number of Kilometer (traveled)": "NAN",
+ "Inter-city or intra-city travel": "Inter-city"
+}

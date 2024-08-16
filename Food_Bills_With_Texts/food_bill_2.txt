@@ -1,0 +1,30 @@
+f    am Mullick : & Radharaman Mullick LLP  
+       Infinity Benc mark , Ground Floor  
+up No 1 & 2 , Plot G1 , Block EP & GP , Secto  
+             r 5  
+        FSSAI NO 12818019000612  
+           Kolk ita - 700091  
+           Nest Bengal  
+           90 1112446  
+        GSTIN No 19AARFB7886L1ZC  
+          Invoice cum Challan  
+      Memo # Sec5 / 34228 04:46 PM 09 - Dec - 2022  
+       Printed On : 01 - Dec - 2022 04:46 PM  
+      User : 2100         Pax # 1  
+         Order # 121  
+      Sr Product   Qty Rate Amount  
+      1 Baked Rossosiol 60 25.00 1500.00  
+       T 5.000 % 75.0  
+      2 Packing Charge 4 20.00 80.00  
+       T 5.000 % 4.00  
+      3 Gur Malai Barf 12 35.00 420.00  
+        T 5.000 % 2.0  
+      Sub Total         2000.00  
+      Output CGST- 2.5 %       50.00  
+      Output SGST - 2.51      50.00  
+      Total Qty : 76 ML :  2100.00  
+      ( Rupees Two Thous .nd One Hundred Only )  
+      Pay Mode : Cred't ard :    2100.00  
+      Item Value         2000.00  
+      Output CGST- 2.5 %       50.00  
+      Output SGST 2.5       50.00  

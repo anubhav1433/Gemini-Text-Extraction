@@ -1,0 +1,135 @@
+ ```json
+{
+  "merchant_name": "Hyatt Regency Ludhiana",
+  "invoice_date": "18-05-2023",
+  "invoice_number": "137079",
+  "total_amount": "13748.40",
+  "hotel_state": "Punjab",
+  "hotel_city": "Ludhiana",
+  "hotel_pin": "141 012",
+  "guest_name": "Mr. Avit Sarkar",
+  "guest_company_name": "Ceat Ltd",
+  "guest_gst_number": "03AAAAC16456129",
+  "checkin_date": "17-05-2023",
+  "checkout_date": "18-05-2023",
+  "total_days_stayed": "1",
+  "hotel_service_line_items": [
+    {
+      "name": "Room Service F&B",
+      "amount": "950.00"
+    },
+    {
+      "name": "Room Service GST 9%",
+      "amount": "85.50"
+    },
+    {
+      "name": "Room Service SGST 9%",
+      "amount": "42.75"
+    },
+    {
+      "name": "Room Service CGST 9%",
+      "amount": "42.75"
+    },
+    {
+      "name": "Room Service F&B",
+      "amount": "484.00"
+    },
+    {
+      "name": "Room Service GST 9%",
+      "amount": "44.00"
+    },
+    {
+      "name": "Room Service SGST 9%",
+      "amount": "22.00"
+    },
+    {
+      "name": "Room Service CGST 9%",
+      "amount": "22.00"
+    },
+    {
+      "name": "Room Service F&B",
+      "amount": "250.00"
+    },
+    {
+      "name": "Room Service GST 9%",
+      "amount": "22.50"
+    },
+    {
+      "name": "Room Service SGST 9%",
+      "amount": "11.25"
+    },
+    {
+      "name": "Room Service CGST 9%",
+      "amount": "11.25"
+    },
+    {
+      "name": "Room Service F&B",
+      "amount": "36.00"
+    },
+    {
+      "name": "Room Service GST 9%",
+      "amount": "3.24"
+    },
+    {
+      "name": "Room Service SGST 9%",
+      "amount": "1.62"
+    },
+    {
+      "name": "Room Service CGST 9%",
+      "amount": "1.62"
+    },
+    {
+      "name": "Room Service F&B",
+      "amount": "72.00"
+    },
+    {
+      "name": "Room Service GST 9%",
+      "amount": "6.48"
+    },
+    {
+      "name": "Room Service SGST 9%",
+      "amount": "3.24"
+    },
+    {
+      "name": "Room Service CGST 9%",
+      "amount": "3.24"
+    },
+    {
+      "name": "Room Service F&B",
+      "amount": "800.00"
+    },
+    {
+      "name": "Room Service GST 6%",
+      "amount": "48.00"
+    },
+    {
+      "name": "Room Service SGST 6%",
+      "amount": "24.00"
+    },
+    {
+      "name": "Room Service CGST 6%",
+      "amount": "24.00"
+    },
+    {
+      "name": "Accommodation",
+      "amount": "270.00"
+    },
+    {
+      "name": "Room Service GST 6%",
+      "amount": "16.20"
+    },
+    {
+      "name": "Room Service SGST 6%",
+      "amount": "8.10"
+    },
+    {
+      "name": "Room Service CGST 6%",
+      "amount": "8.10"
+    },
+    {
+      "name": "Visa",
+      "amount": "200.00"
+    }
+  ]
+}
+```
